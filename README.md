@@ -1,21 +1,26 @@
-![](/GameplayImages/PressureLogo.png)
-# Pressure
+<p align="center">
+  <img width="400" height="400" src="/GameplayImages/PressureLogo.png">
+</p>
+
 Pressure is a survival-suspense game where you play as a submarine engineer on a grey zone reconnaissance mission. Following the mysterious disappearance of your fellow crew members, it is up to you to quickly master your submarine's systems while simultaneously fending off the dark threat that surrounds your ship. Will you adapt and fight your way to the surface, or will you resign yourself to the ocean's depths?
 
 ## Pressure Game Trailer
 [![Watch the video](/GameplayImages/youtubeLink.png)](https://youtu.be/fptSjPO6RoM)
 
 ## Gameplay Images
-![Submarine Bridge](/GameplayImages/Bridge.png)
-![Sonar Systems Room](/GameplayImages/FreqRoom.png)
-![System Wiring Repair](/GameplayImages/Wires.png)
-![Torpedo Bay](/GameplayImages/Red.png)
-![Central Corridor](/GameplayImages/Corridor.png)
-![Waterflow Pipe Repair](/GameplayImages/Pipes.png)
-![Critical Systems Display](/GameplayImages/Extinguisher.png)
+<p align="center">
+  <img width="80%" height="80%" src="/GameplayImages/Bridge.png">
+  <img width="80%" height="80%" src="/GameplayImages/FreqRoom.png">
+  <img width="80%" height="80%" src="/GameplayImages/Wires.png">
+  <img width="80%" height="80%" src="/GameplayImages/Red.png">
+  <img width="80%" height="80%" src="/GameplayImages/Corridor.png">
+  <img width="80%" height="80%" src="/GameplayImages/Pipes.png">
+  <img width="80%" height="80%" src="/GameplayImages/Extinguisher.png">
+</p>
 
 ## Play the Game!
 Feel free to download Pressure from our itch.io page, any feedback is appreciated!
+
 https://semag.itch.io/pressuregame
 
 ## Pressure Development Team
